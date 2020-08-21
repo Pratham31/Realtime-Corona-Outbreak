@@ -1,2 +1,2 @@
 # Realtime-Corona-Outbreak
-Gives Notification about Corona live cases from all
+Gives Notification about Corona live cases from all over
